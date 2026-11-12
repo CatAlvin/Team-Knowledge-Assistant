@@ -97,7 +97,8 @@ The offline parser derives the year from the source message timestamp. The web U
 
 The retriever merges adjacent paragraphs, builds TF-IDF vectors and ranks chunks by cosine similarity. A minimum score of 0.05 plus shared content words selects the context passed to the answer step. Responses retain `filename#chunk` references, so the UI can open the document that supports the answer.
 
-```sequenceDiagram
+```mermaid
+sequenceDiagram
     actor Reader
     participant UI as Workbench
     participant API as FastAPI

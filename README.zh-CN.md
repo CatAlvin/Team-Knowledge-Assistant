@@ -97,7 +97,8 @@ flowchart LR
 
 检索器合并相邻段落，构建 TF-IDF 向量，并按余弦相似度排序。最高分达到 0.05 且与问题存在有效内容词重叠时，对应片段进入回答步骤。结果保留 `文件名#片段编号`，页面可据此打开支撑回答的文档。
 
-```sequenceDiagram
+```mermaid
+sequenceDiagram
     actor Reader as 使用者
     participant UI as 工作台
     participant API as FastAPI
