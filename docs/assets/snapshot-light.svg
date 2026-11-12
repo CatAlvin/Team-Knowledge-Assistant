@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="470" viewBox="0 0 1100 470" role="img">
+<style>text{font-family:Segoe UI,Arial,sans-serif}</style>
+<rect width="1100" height="470" rx="18" fill="#f5f7f1"/>
+<text x="40" y="44" fill="#213c2b" font-size="20" font-weight="650">MESSAGE DISTRIBUTION</text>
+<text x="40" y="72" fill="#56695c" font-size="13" font-weight="400">2026-07-13 to 2026-07-14</text>
+<path d="M548 100V422" stroke="#d3dfd4"/>
+<text x="40" y="116" fill="#56695c" font-size="14" font-weight="600">Messages per channel</text>
+<text x="590" y="116" fill="#56695c" font-size="14" font-weight="600">Pipeline outputs</text>
+<text x="40" y="151" fill="#213c2b" font-size="14" font-weight="400">#incidents</text>
+<text x="446" y="151" fill="#32694a" font-size="14" font-weight="600">24</text>
+<rect x="40" y="160" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="40" y="160" width="430.00" height="7" rx="3" fill="#32694a"/>
+<text x="40" y="200" fill="#213c2b" font-size="14" font-weight="400">#customer-support</text>
+<text x="446" y="200" fill="#32694a" font-size="14" font-weight="600">14</text>
+<rect x="40" y="209" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="40" y="209" width="250.83" height="7" rx="3" fill="#32694a"/>
+<text x="40" y="249" fill="#213c2b" font-size="14" font-weight="400">#engineering</text>
+<text x="446" y="249" fill="#32694a" font-size="14" font-weight="600">9</text>
+<rect x="40" y="258" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="40" y="258" width="161.25" height="7" rx="3" fill="#32694a"/>
+<text x="40" y="298" fill="#213c2b" font-size="14" font-weight="400">#product</text>
+<text x="446" y="298" fill="#32694a" font-size="14" font-weight="600">5</text>
+<rect x="40" y="307" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="40" y="307" width="89.58" height="7" rx="3" fill="#32694a"/>
+<text x="40" y="347" fill="#213c2b" font-size="14" font-weight="400">#random</text>
+<text x="446" y="347" fill="#32694a" font-size="14" font-weight="600">3</text>
+<rect x="40" y="356" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="40" y="356" width="53.75" height="7" rx="3" fill="#32694a"/>
+<text x="590" y="151" fill="#213c2b" font-size="14" font-weight="400">Channel summaries</text>
+<text x="996" y="151" fill="#32694a" font-size="14" font-weight="600">2</text>
+<rect x="590" y="160" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="590" y="160" width="143.33" height="7" rx="3" fill="#32694a"/>
+<text x="590" y="200" fill="#213c2b" font-size="14" font-weight="400">Assigned action items</text>
+<text x="996" y="200" fill="#32694a" font-size="14" font-weight="600">4</text>
+<rect x="590" y="209" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="590" y="209" width="286.67" height="7" rx="3" fill="#32694a"/>
+<text x="590" y="249" fill="#213c2b" font-size="14" font-weight="400">High-priority signals</text>
+<text x="996" y="249" fill="#32694a" font-size="14" font-weight="600">6</text>
+<rect x="590" y="258" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="590" y="258" width="430.00" height="7" rx="3" fill="#32694a"/>
+<text x="590" y="298" fill="#213c2b" font-size="14" font-weight="400">Medium-priority signals</text>
+<text x="996" y="298" fill="#32694a" font-size="14" font-weight="600">5</text>
+<rect x="590" y="307" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="590" y="307" width="358.33" height="7" rx="3" fill="#32694a"/>
+<text x="590" y="347" fill="#213c2b" font-size="14" font-weight="400">Knowledge documents</text>
+<text x="996" y="347" fill="#32694a" font-size="14" font-weight="600">3</text>
+<rect x="590" y="356" width="430" height="7" rx="3" fill="#e1e8dc"/>
+<rect x="590" y="356" width="215.00" height="7" rx="3" fill="#32694a"/>
+<text x="40" y="448" fill="#56695c" font-size="13" font-weight="400">55 sample messages; signals are grouped by the first matching severity.</text>
+</svg>

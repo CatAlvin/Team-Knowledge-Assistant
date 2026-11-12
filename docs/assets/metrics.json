@@ -1,0 +1,36 @@
+{
+  "project": "Team Knowledge Assistant",
+  "records": 55,
+  "dataset": "data/sample_messages.jsonl",
+  "knowledge_documents": 3,
+  "knowledge_chunks": 8,
+  "tests_by_module": {
+    "api": 5,
+    "business": 9,
+    "mcp": 1,
+    "workbench": 5
+  },
+  "test_count": 20,
+  "channels": {
+    "#engineering": 9,
+    "#incidents": 24,
+    "#customer-support": 14,
+    "#product": 5,
+    "#random": 3
+  },
+  "tasks": 4,
+  "summaries": 2,
+  "alerts": 11,
+  "alerts_by_severity": {
+    "high": 6,
+    "medium": 5
+  },
+  "period_start": "2026-07-13T08:45:00",
+  "period_end": "2026-07-14T16:35:00",
+  "mcp_tools": [
+    "scan_risks",
+    "summarize_channel",
+    "extract_action_items",
+    "ask_kb"
+  ]
+}
